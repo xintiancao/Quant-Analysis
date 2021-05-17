@@ -1,0 +1,16 @@
+test2.txt
+
+hello world, hell python.
+
+hello world, hello git.
+
+<<<<<<< HEAD
+def func3():
+	print("temp debug")
+=======
+def func():
+	print("hello world, hello git.")
+
+def func2():
+	print("test2.txt finished.")
+>>>>>>> dev1
